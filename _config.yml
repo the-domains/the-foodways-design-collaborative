@@ -1,7 +1,7 @@
 name: The Foodways Design Collaborative
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.2659574
+layout_spectrum: 0.52053
+typography_spectrum: 0.87603
 collections:
   - index:
       navigable: true
@@ -34,8 +34,8 @@ color:
     - '#404040'
     - '#333333'
     - '#000000'
-  brandStrength: 0.5212766
-  lightness: 0.3978723
-  saturation: 0.7170213
-  rhythmicContrast: 0.2957447
+  brandStrength: 0.625
+  lightness: 0.6875
+  saturation: 0.3125
+  rhythmicContrast: 0.5
 purpose: []
