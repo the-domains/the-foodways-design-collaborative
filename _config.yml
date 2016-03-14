@@ -1,5 +1,7 @@
-layout_spectrum: 0
 name: The Foodways Design Collaborative
+favicon: null
+layout_spectrum: 0
+typography_spectrum: 0.2659574
 collections:
   - index:
       navigable: true
@@ -12,15 +14,28 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+title: The FDC
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0.5212766
-  lightness: 0.3978723
-  saturation: 0.7170213
-  rhythmicContrast: 0.2957447
   brandColors:
     - '#0D0C0C'
     - '#665C54'
     - '#FFFC4B'
     - '#E89C30'
     - '#FEFFFF'
-typography_spectrum: 0.2659574
+  brandStrength: 0.5212766
+  lightness: 0.3978723
+  saturation: 0.7170213
+  rhythmicContrast: 0.2957447
+purpose: []
