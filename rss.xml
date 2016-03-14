@@ -2,21 +2,28 @@
     <channel>
         <title><![CDATA[The FDC]]></title>
         <description><![CDATA[The FDC]]></description>
-        <link>http://www.thefdc.org/</link>
+        <link>https://thegrid.ai/the-foodways-design-collaborative/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 05:48:25 GMT</lastBuildDate>
-        <atom:link href="http://www.thefdc.org/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 14 Mar 2016 05:51:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-foodways-design-collaborative/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3ee2846-493a-48df-b074-f582c9e7bcd3.jpg">]]></description>
+            <link>https://thegrid.ai/the-foodways-design-collaborative/helps-community-organizers-build-csas-simply/index.html</link>
+            <guid isPermaLink="false">ed7b857b-a1ef-4a79-a0ce-9048ea168ae6</guid>
+            <pubDate>Mon, 14 Mar 2016 05:51:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/df4c5c4a-7440-43c3-a8a7-ce65bf1fbae3.jpg">]]></description>
-            <link>http://www.thefdc.org/0ea811fd-7565-4655-9747-4f28442f7d9c/index.html</link>
+            <link>https://thegrid.ai/the-foodways-design-collaborative/0ea811fd-7565-4655-9747-4f28442f7d9c/index.html</link>
             <guid isPermaLink="false">0ea811fd-7565-4655-9747-4f28442f7d9c</guid>
             <pubDate>Mon, 14 Mar 2016 05:48:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/09cf8985-a9d3-4053-8a4f-52c824db4ee8.jpg">]]></description>
-            <link>http://www.thefdc.org/the-foodways-design-collaborative/index.html</link>
+            <link>https://thegrid.ai/the-foodways-design-collaborative/the-foodways-design-collaborative/index.html</link>
             <guid isPermaLink="false">b7e6f36c-75f7-421d-bef6-d1e7b3bfa96f</guid>
             <pubDate>Mon, 14 Mar 2016 05:44:54 GMT</pubDate>
         </item>
